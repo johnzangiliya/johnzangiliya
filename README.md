@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm John Zang Iliya
 
-<!--
-**johnzangiliya/johnzangiliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Ethical Hacker | Future Penetration Tester
 
-Here are some ideas to get you started:
+🇳🇬 Nigeria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am an aspiring cybersecurity professional passionate about ethical hacking, penetration testing, and web security.
+
+I am currently building my skills in:
+
+- Linux
+- Networking
+- Burp Suite
+- Wireshark
+- Nmap
+- HTTP
+- Web Security
+- Digital Forensics
+- Cloud Security
+
+---
+
+## 🎯 Current Goal
+
+Preparing for **Black Hat MEA 2026** while building practical cybersecurity skills through hands-on labs and personal projects.
+
+---
+
+## 🛠️ Tools
+
+- Kali Linux
+- Burp Suite
+- Wireshark
+- Nmap
+- Git
+- GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Penetration Testing
+- Web Application Security
+- Digital Forensics
+- Red Teaming
+- Cloud Security
+
+---
+
+> "Consistency beats talent when talent isn't consistent."
