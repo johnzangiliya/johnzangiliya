@@ -21,7 +21,13 @@ I am currently building my skills in:
 - Web Security
 - Digital Forensics
 - Cloud Security
+## 🚀 My Journey
 
+My journey into cybersecurity started with a passion for understanding how technology works and how it can be used to protect people and organizations.
+
+I believe ethical hacking is about solving problems, protecting systems, and making the digital world safer.
+
+Every day, I continue learning through hands-on labs, practical exercises, and personal projects.
 ---
 
 ## 🎯 Current Goal
